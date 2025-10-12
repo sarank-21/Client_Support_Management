@@ -7,8 +7,11 @@ from datetime import datetime
 #-----------------------------------------------------------
 # ✅ Set page config at very top (first Streamlit command)
 #-----------------------------------------------------------
-
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title="Client Query Management System",  # This sets the website/tab title
+    page_icon="💼",                               # Optional: emoji icon for tab
+    layout="wide"
+)
 #----------------------------
 # DB Connection 
 #----------------------------
