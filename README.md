@@ -84,8 +84,6 @@ USE client_query_db;
 ```
 streamlit run app.py
 ```
-###### The app will launch in your browser at :👉 http://localhost:8501
-
 ## 🔑 Sample Users
 username	password	Role
 
