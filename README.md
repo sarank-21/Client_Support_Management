@@ -119,3 +119,16 @@ client_user	client123	Client
 * 📊 Advanced Analytics → Query trends, resolution time tracking, and performance metrics.
 * ✉️ Email / SMS Notifications → Notify clients when their queries are updated or resolved.
 * 📂 Export Options → Download queries as CSV/Excel for reporting.
+
+## 📌 Author
+```
+Saran K
+Data Analytics & Visualization Enthusiast
+Capstone Project – Query Management System 
+```
+## ⭐ If You Like This Project
+
+```
+Give it a ⭐ on GitHub and feel free to fork it!
+```
+
